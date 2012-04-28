@@ -485,5 +485,5 @@ protocols = {
     70: Protocol70(),  # 0.25 - REOPEN
     71: Protocol71(),  # 0.25 - ASK_RECORDING GET_FREE_INPUTS
     72: Protocol72(),  # 0.25 - QUERY_ACTIVE_BACKENDS
-    73: Protocol73()   # 0.25
+    73: Protocol73()   # 0.26
 }    
